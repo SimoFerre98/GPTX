@@ -1,5 +1,5 @@
 # GPTX
-Univerity Project
+University Project
 
 Project for the three-year thesis
 
